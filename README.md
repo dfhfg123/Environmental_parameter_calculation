@@ -1,2 +1,2 @@
-# Environmental_parameter_calculation
-环境参数计算的微信小程序
+
+原生微信小程序制作的用于计算查找环境参数的小程序，后台使用云开发和云数据库完成。
